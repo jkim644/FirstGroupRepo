@@ -11,3 +11,9 @@ Input your name
 Input the numbered grade 
 
 The program runs and outputs the letter grade
+
+# AUTHORS
+Jaclyn Kim
+
+Wabona Dandi
+
