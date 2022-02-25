@@ -8,3 +8,5 @@ Input your name, then input the numbered grade. The program runs and outputs the
 
 # Authors
 Jaclyn Kim & Wabona Dandi
+
+All code is licensed under the terms of the GNU General Public License.

@@ -1,3 +1,2 @@
 # License
 
-All code is licensed under the terms of the GNU General Public License.
