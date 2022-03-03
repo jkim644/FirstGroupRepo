@@ -1,2 +1,2 @@
 # License
-
+We chose the GNU General Public License because it provides the most versatility for the users. The license is copylefted which allows users to use not only the original program for free, but it also allows users to access any other programs that were developed from the original 
