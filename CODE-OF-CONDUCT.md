@@ -17,4 +17,4 @@ Insults
 Sexist, homophobic, racist, or any other type of exclusionary comments
 Other non-professional remarks and/or behavior
 
-Any member that shows any behavior of , may be removed and/or repurcussions will be taken.
+Any member that exhibits any inappropriate bahvaior may be removed and/or the contributors and organizers of the project will take give harsh repurcussions.
